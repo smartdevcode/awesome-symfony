@@ -74,6 +74,7 @@ A list of awesome [Symfony 2](http://symfony.com) bundles, utilities and resourc
  * [ListenersDebugCommandBundle](https://github.com/egulias/ListenersDebugCommandBundle) - A console command to debug listeners.
  * [PUGXGeneratorBundle](https://github.com/PUGX/PUGXGeneratorBundle) - An enhancement of SensioGeneratorBundle.
  * [XhprofBundle](https://github.com/jonaswouters/XhprofBundle) - XHProf bundle.
+ * [WebfactoryExceptionsBundle](https://github.com/webfactory/exceptions-bundle) - Easily develop custom, user-friendly error pages.
 
 ## Assets Management
 
@@ -146,7 +147,6 @@ A list of awesome [Symfony 2](http://symfony.com) bundles, utilities and resourc
  * [shorturl-bundle](https://github.com/fabstei/shorturl-bundle) - Provides short URLs for your project.
  * [CarbonBundle](https://github.com/lightsuner/CarbonBundle) - This bundle provides an opportunity to convert Request data into Carbon objects.
  * [metrics](https://github.com/beberlei/metrics) - Simple library that abstracts different metrics collectors.
- * [CheckBundles](https://github.com/wjzijderveld/CheckBundles) - Checks installed but not activated in AppKernel bundles.
 
 ## Third Party APIs
 
