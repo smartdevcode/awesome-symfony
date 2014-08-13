@@ -15,6 +15,7 @@ Table of contents:
 * [Queues](#queues)
 * [Internationalization](#internationalization)
 * [Payments Management](#payments-management)
+* [Monitoring](#monitoring)
 * [Miscellaneous](#miscellaneous)
 * [Third Party APIs](#third-party-apis)
 * [Reading](#reading)
@@ -134,6 +135,10 @@ Table of contents:
  * [CartBundle](https://github.com/leaphly/CartBundle) - High quality cart for developers.
  * [PayumBundle](https://github.com/Payum/PayumBundle) - Rich payment solutions for symfony2. Paypal, Stripe, Payex, Authorize.NET, Be2bill, Klarna, recurring paymens, instant notifications and many more
 
+## Monitoring
+
+ * [SoclozMonitoringBundle](https://github.com/SoCloz/SoclozMonitoringBundle) - A monitoring bundle for production servers
+
 ## Miscellaneous
 
  * [BrowscapBundle](https://github.com/browscap/BrowscapBundle) - Bundle to access the browscap information.
@@ -179,6 +184,7 @@ Table of contents:
  * [CarbonBundle](https://github.com/lightsuner/CarbonBundle) - This bundle provides an opportunity to convert Request data into Carbon objects.
  * [metrics](https://github.com/beberlei/metrics) - Simple library that abstracts different metrics collectors.
  * [CheckBundles](https://github.com/wjzijderveld/CheckBundles) - Checks installed but not activated in AppKernel bundles.
+ * [OneupUploaderBundle](https://github.com/1up-lab/OneupUploaderBundle) - Provides server implementations for several multi file uploader.
 
 ## Third Party APIs
 
