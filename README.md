@@ -42,7 +42,6 @@ Table of contents:
  * [RequestLimitBundle](https://github.com/zim32/Symfony2-RequestLimitBundle) - With this bundle you can easy limit requests to your application.
  * [ResourceBundle](https://github.com/ProgrammingAreHard/ResourceBundle) - Bundle that helps in developing REST APIs.
  * [SerializedResponseBundle](https://github.com/Pulpmedia/SerializedResponseBundle) - A simple bundle to provide an easy way to send out json/xml/yaml responses of serialized objects with annotations.
- * [LemonRestBundle](https://github.com/stanlemon/rest-bundle) - An opinionated bundle providing REST endpoints for Doctrine entities
 
 ## Template Engine
 
@@ -97,6 +96,7 @@ Table of contents:
 
  * [JMSDiExtraBundle](http://jmsyst.com/bundles/JMSDiExtraBundle) - Provides Advanced Dependency Injection Features.
  * [PHP-DI](http://php-di.org) - The dependency injection container for humans.
+ * [KutnyAutowiringBundle](https://github.com/kutny/autowiring-bundle) - a bundle providing autowiring for service arguments.
 
 ## Development
 
