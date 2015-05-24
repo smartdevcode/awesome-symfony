@@ -42,6 +42,7 @@ Table of contents:
  * [RequestLimitBundle](https://github.com/zim32/Symfony2-RequestLimitBundle) - With this bundle you can easy limit requests to your application.
  * [ResourceBundle](https://github.com/ProgrammingAreHard/ResourceBundle) - Bundle that helps in developing REST APIs.
  * [SerializedResponseBundle](https://github.com/Pulpmedia/SerializedResponseBundle) - A simple bundle to provide an easy way to send out json/xml/yaml responses of serialized objects with annotations.
+ * [LemonRestBundle](https://github.com/stanlemon/rest-bundle) - An opinionated bundle providing REST endpoints for Doctrine entities
 
 ## Template Engine
 
@@ -72,7 +73,7 @@ Table of contents:
  * [MysqlDoctrineFunctions](https://github.com/mapado/MysqlDoctrineFunctions) - MySQL Function for Doctrine : RAND(), ROUND() DATE(), DATE_FORMAT().
  * [OneupFlysystemBundle](https://github.com/1up-lab/OneupFlysystemBundle) - Integrates Flysystem.
  * [PasswordStrengthBundle](https://github.com/jbafford/PasswordStrengthBundle) - Validator for ensuring strong passwords.
- * [RelationBundle](https://github.com/Ph3nol/RelationBundle) - Bundle to manage relations between models/entities.
+ * [RelationBundle](https://github.com/Ph3nol/RelationBundle) - Bundle to manage relations between models/entities. (Not maintained anymore)
  * [SncRedisBundle](https://github.com/snc/SncRedisBundle) - Bundle to integrate Redis into your app.
  * [StofDoctrineExtensionsBundle](https://github.com/stof/StofDoctrineExtensionsBundle) - This bundle provides integration for DoctrineExtensions.
  * [VichGeographicalBundle](https://github.com/dustin10/VichGeographicalBundle) - A bundle which provides geographical features for ORM and ODM entities and object oriented javascript maps rendering.
