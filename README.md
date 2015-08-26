@@ -33,7 +33,6 @@ Table of contents:
  * [BazingaHateoasBundle](https://github.com/willdurand/BazingaHateoasBundle) - Integration of the Hateoas library.
  * [FOSOAuthServerBundle](https://github.com/FriendsOfSymfony/FOSOAuthServerBundle) - A server side OAuth2 bundle.
  * [FOSRestBundle](https://github.com/FriendsOfSymfony/FOSRestBundle) - Provides various tools to rapidly develop RESTful API's & applications.
- * [DunglasApiBundle](https://github.com/dunglas/DunglasApiBundle) - Bundle to build hypermedia-driven REST API.
  * [JMSSerializerBundle](https://github.com/schmittjoh/JMSSerializerBundle) - Easily serialize, and deserialize data of any complexity.
  * [JSONApiBundle](https://github.com/nilportugues/symfony2-jsonapi-transformer) - Bundle which provides support for formatting REST reponses to follow the JSON API specification.
  * [KnpJsonSchemaBundle](https://github.com/KnpLabs/KnpJsonSchemaBundle) - Provide a service which allow you to generate json schema based on validation metadata.
@@ -110,6 +109,7 @@ Table of contents:
  * [LiipCodeBundle](https://github.com/liip/LiipCodeBundle) - A set of Symfony2 console commands to help developers deal with the various ways of identifying classes, templates, bundles, services, etc.
  * [ListenersDebugCommandBundle](https://github.com/egulias/ListenersDebugCommandBundle) - A console command to debug listeners.
  * [ParamConverterBundle](https://github.com/jakzal/ParamConverterBundle) - This bundle provides additional param converters for Symfony.
+ * [PsyshBundle](https://github.com/theofidry/PsyshBundle) - Provides an enhanced PHP interactive shell loaded with a Symfony context.
  * [PUGXGeneratorBundle](https://github.com/PUGX/PUGXGeneratorBundle) - An enhancement of SensioGeneratorBundle.
  * [SandboxBundle](https://github.com/danrevah/SandboxBundle) - Overriding controller logic & response in a Sandbox environment.
  * [TagDebugCommandBundle](https://github.com/egulias/TagDebugCommandBundle) - Integrate TagDebug library for inspecting and debugging tags
