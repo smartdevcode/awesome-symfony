@@ -121,6 +121,7 @@ Table of contents:
  * [PhpMetricsCollectorBundle](https://github.com/Halleck45/PhpMetricsCollectorBundle) - Integrates PhpMetrics in Symfony2 debug toolbar.
  * [PsyshBundle](https://github.com/theofidry/PsyshBundle) - Provides an enhanced PHP interactive shell loaded with a Symfony context.
  * [PUGXGeneratorBundle](https://github.com/PUGX/PUGXGeneratorBundle) - An enhancement of SensioGeneratorBundle.
+ * [redaktilo-bundle](https://github.com/gnugat/redaktilo-bundle) - Integrates Redaktilo into Symfony 2.
  * [SandboxBundle](https://github.com/danrevah/SandboxBundle) - Overriding controller logic & response in a Sandbox environment.
  * [TagDebugCommandBundle](https://github.com/egulias/TagDebugCommandBundle) - Integrate TagDebug library for inspecting and debugging tags
  * [TwigReflectionBundle](https://github.com/arnaud-lb/TwigReflectionBundle) - Displays what's in Twig.
@@ -260,7 +261,8 @@ Table of contents:
 * [Symfony Bootstrap Edition](https://github.com/phiamo/symfony-bootstrap)
 * [Symfony CMF Standard Edition](https://github.com/symfony-cmf/standard-edition)
 * [Symfony EmberJs Edition](https://github.com/ucsf-ckm/symfony-emberjs-edition)
-* [Symfony Empty Edition](https://github.com/gnugat/symfony-empty-edition)
+* [Symfony Emptier Edition](https://github.com/gnugat/sf2-emptier)
+* [Symfony Empty Edition](https://github.com/gnugat/symfony-empty)
 * [Symfony Micro Edition](https://github.com/magnusnordlander/symfony-micro)
 * [Symfony Nerdery Edition](https://github.com/thenerdery/symfony-standard)
 * [Symfony REST Edition](https://github.com/gimler/symfony-rest-edition)
