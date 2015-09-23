@@ -220,6 +220,7 @@ Table of contents:
  * [OneupUploaderBundle](https://github.com/1up-lab/OneupUploaderBundle) - Provides server implementations for several multi file uploader.
  * [phone-number-bundle](https://github.com/misd-service-development/phone-number-bundle) - Integrates libphonenumber.
  * [prezent-grid-bundle](https://github.com/Prezent/prezent-grid-bundle) - Integrate the prezent/grid library in Symfony2.
+ * [query-bus-bundle](https://github.com/gnugat/query-bus-bundle) - QueryBus integration in Symfony.
  * [rss-atom-bundle](https://github.com/alexdebril/rss-atom-bundle) - RSS and Atom Bundle.
  * [Search-SphinxsearchBundle](https://github.com/timewasted/Search-SphinxsearchBundle) - Sphinx search bundle.
  * [SettingsBundle](https://github.com/dmishh/SettingsBundle) - Database centric configuration management. Global and per-user settings supported.
@@ -261,8 +262,7 @@ Table of contents:
 * [Symfony Bootstrap Edition](https://github.com/phiamo/symfony-bootstrap)
 * [Symfony CMF Standard Edition](https://github.com/symfony-cmf/standard-edition)
 * [Symfony EmberJs Edition](https://github.com/ucsf-ckm/symfony-emberjs-edition)
-* [Symfony Emptier Edition](https://github.com/gnugat/sf2-emptier)
-* [Symfony Empty Edition](https://github.com/gnugat/symfony-empty)
+* [Symfony Empty Edition](https://github.com/gnugat/symfony-empty-edition)
 * [Symfony Micro Edition](https://github.com/magnusnordlander/symfony-micro)
 * [Symfony Nerdery Edition](https://github.com/thenerdery/symfony-standard)
 * [Symfony REST Edition](https://github.com/gimler/symfony-rest-edition)
