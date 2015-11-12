@@ -1,5 +1,5 @@
-# Awesome Symfony [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A list of awesome [Symfony](http://symfony.com) bundles, utilities and resources.
+# Awesome Symfony 2 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+A list of awesome [Symfony 2](http://symfony.com) bundles, utilities and resources.
 
 Table of contents:
 
@@ -20,6 +20,7 @@ Table of contents:
 * [Third Party APIs](#third-party-apis)
 * [Reading](#reading)
 * [Distributions](#distributions)
+* [Resources](#resources)
 * [Community](#community)
 
 ## User Management
@@ -298,6 +299,11 @@ Table of contents:
 * [Symfony Sonata Edition](https://github.com/jmather/symfony-sonata-distribution)
 * [Symfony Standard Edition](https://github.com/symfony/symfony-standard)
 * [Victoire DCMS](https://github.com/victoire/victoire)
+
+## Resources
+
+* [Twigfiddle](http://twigfiddle.com/) - Small development environment to develop, run, store and access Twig code online.
+* [Symfony2 Service Config Converter](http://converter.rosstuck.com/) - A simple service to convert services configuration between YAML, XML and INI.
 
 ## Community
 
