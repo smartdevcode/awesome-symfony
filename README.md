@@ -1,5 +1,5 @@
-# Awesome Symfony 2 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A list of awesome [Symfony 2](http://symfony.com) bundles, utilities and resources.
+# Awesome Symfony [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+A list of awesome [Symfony](http://symfony.com) bundles, utilities and resources.
 
 Table of contents:
 
@@ -329,4 +329,4 @@ Table of contents:
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Emanuele Minotto](http://emanueleminotto.github.io) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Emanuele Minotto](http://emanueleminotto.github.io) (the repo's original creator) and [SitePoint](http://sitepoint.com) have waived all copyright and related or neighboring rights to this work.
