@@ -229,6 +229,7 @@ Table of contents:
  * [CheckBundles](https://github.com/wjzijderveld/CheckBundles) - Checks installed but not activated in AppKernel bundles.
  * [CloudBackupBundle](https://github.com/dizda/CloudBackupBundle) - Be able to backup your database(s) and upload it to the cloud.
  * [ConsoleBundle](https://github.com/CoreSphere/ConsoleBundle) - Commandline interface in browser.
+ * [CsaGuzzleBundle](https://github.com/csarrazi/CsaGuzzleBundle) - Bundle integrating Guzzle >=4.0 in Symfony.
  * [EasyAuditBundle](http://xiidea.github.io/EasyAuditBundle/) - This bundle provides audit logging for your application - works with Doctrine2 entities and allows logging selective events.
  * [EmbedlyBundle](https://github.com/EmanueleMinotto/EmbedlyBundle) - Bundle for the embed.ly library.
  * [ExcelBundle](https://github.com/liuggio/ExcelBundle) - Excel integration in Symfony2 thanks to https://github.com/PHPOffice/PHPExcel library.
@@ -287,7 +288,6 @@ Table of contents:
 ## Third Party APIs
 
  * [AlgoliaSearchBundle](https://github.com/algolia/AlgoliaSearchBundle) - Seamless integration of Algolia Search into your Symfony project.
- * [CoopTilleulsOvhBundle](https://github.com/coopTilleuls/CoopTilleulsOvhBundle) - Send SMS using the OVH API.
  * [GordalinaMixpanelBundle](https://github.com/gordalina/GordalinaMixpanelBundle) - Mixpanel integration in Symfony2.
  * [SwarrotBundle](https://github.com/swarrot/SwarrotBundle) - A bundle for swarrot integration.
  * [SwmMailHookBundle](https://github.com/ScullWM/MailHookBundle/) - Bundle to catch API webhook from different mail service (Mailjet, Mandrill, custom)
