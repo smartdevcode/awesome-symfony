@@ -286,7 +286,6 @@ Table of contents:
  * [WidopFrameworkExtraBundle](https://github.com/widop/WidopFrameworkExtraBundle) - Adds annotation configuration for Controller classes.
  * [WozbeRedirectBundle](https://github.com/wozbe/WozbeRedirectBundle) - A short bundle to manage many domains.
  * [CsvBundle](https://github.com/EGYG33K/CsvBundle) - An integration for thephpleague/csv into Symfony.
- * [DomainParserBundle](https://github.com/EGYG33K/DomainParserBundle) - Integration of Domain Parser into Symfony.
 
 ## Third Party APIs
 
@@ -345,7 +344,7 @@ Table of contents:
 * [Twitter](https://twitter.com/symfony) - Keep up with Symfony news in a twitter-like way.
 * Local:
     * [Community events](http://symfony.com/events/) - Find Symfony events near you.
-    * [Meetup](http://symfony.meetup.com/) - Get involved locally and find Symfony users from your local area.
+    * [Meetup](http://www.meetup.com/topics/symfony/) - Get involved locally and find Symfony users from your local area.
 
 ## License
 
