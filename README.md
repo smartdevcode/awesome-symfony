@@ -58,6 +58,7 @@ Table of contents:
 * Local:
     * [Community events](http://symfony.com/events/) - Find Symfony events near you.
     * [Meetup](http://www.meetup.com/topics/symfony/) - Get involved locally and find Symfony users from your local area.
+* [Telegram](telegram.me/symfony_php) - Symfony group on Telegram.
 * [Quora](https://www.quora.com/topic/Symfony) - Symfony topics on Quora.
 * [Reddit](https://www.reddit.com/r/symfony) - Ask and answer questions, discussion.
 * [SensioLabs Connect](https://connect.sensiolabs.com/login) - Developer social network, earn achievements for your community involvement and commitment.
@@ -98,6 +99,7 @@ Table of contents:
 * [API Platform framework](https://github.com/api-platform/api-platform)
 * [KnpLabs RAD Edition](https://github.com/KnpLabs/rad-edition)
 * [Kunstmaan Bundles Standard Edition](https://github.com/Kunstmaan/KunstmaanBundlesStandardEdition)
+* [Liip RAD Edition](https://github.com/liip/symfony-rad-edition)
 * [Symfony Biga Edition](https://github.com/JoshuaEstes/symfony-biga-edition)
 * [Symfony Bootstrap Edition](https://github.com/phiamo/symfony-bootstrap)
 * [Symfony CMF Standard Edition](https://github.com/symfony-cmf/standard-edition)
