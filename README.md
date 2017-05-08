@@ -99,7 +99,6 @@ Table of contents:
 * [API Platform framework](https://github.com/api-platform/api-platform)
 * [KnpLabs RAD Edition](https://github.com/KnpLabs/rad-edition)
 * [Kunstmaan Bundles Standard Edition](https://github.com/Kunstmaan/KunstmaanBundlesStandardEdition)
-* [Liip RAD Edition](https://github.com/liip/symfony-rad-edition)
 * [Symfony Biga Edition](https://github.com/JoshuaEstes/symfony-biga-edition)
 * [Symfony Bootstrap Edition](https://github.com/phiamo/symfony-bootstrap)
 * [Symfony CMF Standard Edition](https://github.com/symfony-cmf/standard-edition)
@@ -253,7 +252,6 @@ Table of contents:
 * [Assets Cache Busting in Symfony](http://elnur.pro/assets-cache-busting-in-symfony/)
 * [High Performance Websites with Symfony2](http://slides.seld.be/?file=2011-10-20+High+Performance+Websites+with+Symfony2.html)
 * [Symfony - project tamed](http://clearcode.cc/2014/03/symfony-project/)
-* [Symfony2 cheat sheet](http://www.symfony2cheatsheet.com/)
 
 ## Resources
 
