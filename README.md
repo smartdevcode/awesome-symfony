@@ -125,17 +125,11 @@ Table of contents:
 
 ## Forms
 
-* [AutoFormFillBundle](https://github.com/AppVentus/AutoFormFillBundle) - This bundle fill automaticly creation forms in your application.
-* [CaptchaBundle](https://github.com/Gregwar/CaptchaBundle) - Bundle implementing a "captcha" form type.
-* [ContactBundle](https://github.com/mremi/ContactBundle) - Provides a contact form for a Symfony2 project.
 * [CraueFormFlowBundle](https://github.com/craue/CraueFormFlowBundle) - Multi-step forms.
-* [FilterFormBundle](https://github.com/IDCI-Consulting/FilterFormBundle) - Filter form bundle.
-* [FormBundle](https://github.com/Gregwar/FormBundle) - Provides the "entity_id" type.
 * [InfiniteFormBundle](https://github.com/infinite-networks/InfiniteFormBundle) - A collection of useful form types and extensions.
 * [IvoryCKEditorBundle](https://github.com/egeloen/IvoryCKEditorBundle) - CKEditor integration in Symfony.
 * [IvoryOrderedFormBundle](https://github.com/egeloen/IvoryOrderedFormBundle) - Provides a form ordering support.
 * [LexikFormFilterBundle](https://github.com/lexik/LexikFormFilterBundle) - Lexik Form Filter bundle.
-* [SharkLoggerBundle](https://github.com/agiuliano/SharkLoggerBundle) - A Symfony 2 bundle that allows you to log form errors and data.
 
 ## Internationalization
 
@@ -324,6 +318,7 @@ Table of contents:
 * [HWIOAuthBundle](https://github.com/hwi/HWIOAuthBundle) - OAuth client integration. Supports both OAuth1.0a and OAuth2.
 * [JmikolaAutoLoginBundle](https://github.com/jmikola/JmikolaAutoLoginBundle) - This bundle integrates the AutoLogin library with Symfony2, which implements a security firewall listener to authenticate users based on a single query parameter.
 * [JMSSecurityExtraBundle](http://jmsyst.com/bundles/JMSSecurityExtraBundle) - Enhances the Security Component with several new features.
+* [KnpUGuardBundle](https://github.com/knpuniversity/KnpUGuardBundle) - Adds simple and beautiful authentication to your Symfony project.
 * [SamlBundle](https://github.com/pdias/SamlBundle) - The SamlBundle adds support for SAML 2.0 Service Provider in Symfony2.
 * [two-factor-bundle](https://github.com/scheb/two-factor-bundle) - This Symfony2 bundle provides two-factor authentication for your website.
 
