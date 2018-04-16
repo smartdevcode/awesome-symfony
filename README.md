@@ -4,6 +4,7 @@ A list of awesome [Symfony](http://symfony.com) bundles, utilities and resources
 Table of contents:
 
 * [Administration](#administration)
+* [Assets Management](#assets-management)
 * [Certification](#certification)
 * [Community](#community)
 * [Development](#development)
@@ -31,6 +32,19 @@ Table of contents:
 * [AdmingeneratorGeneratorBundle](https://github.com/symfony2admingenerator/AdmingeneratorGeneratorBundle) - Admingenerator for Symfony2, parse generator.yml files to build classes
 * [EasyAdminBundle](https://github.com/javiereguiluz/EasyAdminBundle) - Simple admin generator for Symfony applications
 * [SonataAdminBundle](https://github.com/sonata-project/SonataAdminBundle) - AdminBundle - The missing Symfony2 Admin Generator
+
+## Assets Management
+
+* [assetic-extra-bundle](https://github.com/alexandresalome/assetic-extra-bundle) - Asset Directory filter for Assetic.
+* [AsseticInjectorBundle](https://github.com/AppVentus/AsseticInjectorBundle) - This bundle allows you to automaticly include javascripts and stylesheets anywhere in your project.
+* [AsseticMinifierBundle](https://github.com/Djeg/AsseticMinifierBundle) - An assetic minifier in pure PHP for CSS and JS files.
+* [FkrCssURLRewriteBundle](https://github.com/fkrauthan/FkrCssURLRewriteBundle) - A small assetic filter to fix all url paths at css documents to correct urls.
+* [IgorwFileServeBundle](https://github.com/igorw/IgorwFileServeBundle) - Bundle for serving protected files.
+* [JmikolaJsAssetsHelperBundle](https://github.com/jmikola/JmikolaJsAssetsHelperBundle) - Exposes the AssetsHelper service from Symfony2's templating component to JavaScript, allowing relative or absolute asset URI's to be generated client-side.
+* [KachkaevAssetsVersionBundle](https://github.com/kachkaev/KachkaevAssetsVersionBundle) - Automates the process of updating assets version.
+* [SalvaJshrinkBundle](https://github.com/nibsirahsieu/SalvaJshrinkBundle) - This bundle integrate jshrink library as Assetic filter and twig extension.
+* [SpritesBundle](https://github.com/pminnieur/SpritesBundle) - Bundle for the Sprites library.
+* [ZakharovviHumansTxtBundle](https://github.com/zakharovvi/ZakharovviHumansTxtBundle) - Generate humans.txt file from git repository.
 
 ## Certification
 * [CLI tool to train certifications](https://github.com/certificationy/certificationy-cli)
@@ -89,18 +103,9 @@ Table of contents:
 ## Distributions
 
 * [API Platform framework](https://github.com/api-platform/api-platform)
-* [KnpLabs RAD Edition](https://github.com/KnpLabs/rad-edition)
 * [Kunstmaan Bundles Standard Edition](https://github.com/Kunstmaan/KunstmaanBundlesStandardEdition)
-* [Symfony Biga Edition](https://github.com/JoshuaEstes/symfony-biga-edition)
-* [Symfony Bootstrap Edition](https://github.com/phiamo/symfony-bootstrap)
 * [Symfony CMF Standard Edition](https://github.com/symfony-cmf/standard-edition)
-* [Symfony EmberJs Edition](https://github.com/ucsf-ckm/symfony-emberjs-edition)
-* [Symfony Empty Edition](https://github.com/gnugat/symfony-empty-edition)
-* [Symfony Micro Edition](https://github.com/magnusnordlander/symfony-micro)
-* [Symfony REST Edition](https://github.com/gimler/symfony-rest-edition)
-* [Symfony Sonata Edition](https://github.com/jmather/symfony-sonata-distribution)
 * [Symfony Standard Edition](https://github.com/symfony/symfony-standard)
-* [Victoire DCMS](https://github.com/victoire/victoire)
 
 ## Ecommerce
 
