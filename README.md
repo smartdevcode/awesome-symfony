@@ -4,7 +4,6 @@ A list of awesome [Symfony](http://symfony.com) bundles, utilities and resources
 Table of contents:
 
 * [Administration](#administration)
-* [Assets Management](#assets-management)
 * [Certification](#certification)
 * [Community](#community)
 * [Development](#development)
@@ -32,19 +31,6 @@ Table of contents:
 * [AdmingeneratorGeneratorBundle](https://github.com/symfony2admingenerator/AdmingeneratorGeneratorBundle) - Admingenerator for Symfony2, parse generator.yml files to build classes
 * [EasyAdminBundle](https://github.com/javiereguiluz/EasyAdminBundle) - Simple admin generator for Symfony applications
 * [SonataAdminBundle](https://github.com/sonata-project/SonataAdminBundle) - AdminBundle - The missing Symfony2 Admin Generator
-
-## Assets Management
-
-* [assetic-extra-bundle](https://github.com/alexandresalome/assetic-extra-bundle) - Asset Directory filter for Assetic.
-* [AsseticInjectorBundle](https://github.com/AppVentus/AsseticInjectorBundle) - This bundle allows you to automaticly include javascripts and stylesheets anywhere in your project.
-* [AsseticMinifierBundle](https://github.com/Djeg/AsseticMinifierBundle) - An assetic minifier in pure PHP for CSS and JS files.
-* [FkrCssURLRewriteBundle](https://github.com/fkrauthan/FkrCssURLRewriteBundle) - A small assetic filter to fix all url paths at css documents to correct urls.
-* [IgorwFileServeBundle](https://github.com/igorw/IgorwFileServeBundle) - Bundle for serving protected files.
-* [JmikolaJsAssetsHelperBundle](https://github.com/jmikola/JmikolaJsAssetsHelperBundle) - Exposes the AssetsHelper service from Symfony2's templating component to JavaScript, allowing relative or absolute asset URI's to be generated client-side.
-* [KachkaevAssetsVersionBundle](https://github.com/kachkaev/KachkaevAssetsVersionBundle) - Automates the process of updating assets version.
-* [SalvaJshrinkBundle](https://github.com/nibsirahsieu/SalvaJshrinkBundle) - This bundle integrate jshrink library as Assetic filter and twig extension.
-* [SpritesBundle](https://github.com/pminnieur/SpritesBundle) - Bundle for the Sprites library.
-* [ZakharovviHumansTxtBundle](https://github.com/zakharovvi/ZakharovviHumansTxtBundle) - Generate humans.txt file from git repository.
 
 ## Certification
 * [CLI tool to train certifications](https://github.com/certificationy/certificationy-cli)
@@ -170,7 +156,6 @@ Table of contents:
 * [CheckBundles](https://github.com/wjzijderveld/CheckBundles) - Checks installed but not activated in AppKernel bundles.
 * [CloudBackupBundle](https://github.com/dizda/CloudBackupBundle) - Be able to backup your database(s) and upload it to the cloud.
 * [ConsoleBundle](https://github.com/CoreSphere/ConsoleBundle) - Commandline interface in browser.
-* [EightPointsGuzzleBundle](https://github.com/8p/EightPointsGuzzleBundle) - Integrates Guzzle 6.x, a PHP HTTP Client, into Symfony 2-4 and provides plugins to extend basic functionality.
 * [CsaGuzzleBundle](https://github.com/csarrazi/CsaGuzzleBundle) - Bundle integrating Guzzle >=4.0 in Symfony.
 * [CsvBundle](https://github.com/EGYG33K/CsvBundle) - An integration for thephpleague/csv into Symfony.
 * [DomainParserBundle](https://github.com/EGYG33K/DomainParserBundle) - Integration of Domain Parser into Symfony.
