@@ -125,11 +125,17 @@ Table of contents:
 
 ## Forms
 
+* [AutoFormFillBundle](https://github.com/AppVentus/AutoFormFillBundle) - This bundle fill automaticly creation forms in your application.
+* [CaptchaBundle](https://github.com/Gregwar/CaptchaBundle) - Bundle implementing a "captcha" form type.
+* [ContactBundle](https://github.com/mremi/ContactBundle) - Provides a contact form for a Symfony2 project.
 * [CraueFormFlowBundle](https://github.com/craue/CraueFormFlowBundle) - Multi-step forms.
+* [FilterFormBundle](https://github.com/IDCI-Consulting/FilterFormBundle) - Filter form bundle.
+* [FormBundle](https://github.com/Gregwar/FormBundle) - Provides the "entity_id" type.
 * [InfiniteFormBundle](https://github.com/infinite-networks/InfiniteFormBundle) - A collection of useful form types and extensions.
 * [IvoryCKEditorBundle](https://github.com/egeloen/IvoryCKEditorBundle) - CKEditor integration in Symfony.
 * [IvoryOrderedFormBundle](https://github.com/egeloen/IvoryOrderedFormBundle) - Provides a form ordering support.
 * [LexikFormFilterBundle](https://github.com/lexik/LexikFormFilterBundle) - Lexik Form Filter bundle.
+* [SharkLoggerBundle](https://github.com/agiuliano/SharkLoggerBundle) - A Symfony 2 bundle that allows you to log form errors and data.
 
 ## Internationalization
 
@@ -164,6 +170,7 @@ Table of contents:
 * [CheckBundles](https://github.com/wjzijderveld/CheckBundles) - Checks installed but not activated in AppKernel bundles.
 * [CloudBackupBundle](https://github.com/dizda/CloudBackupBundle) - Be able to backup your database(s) and upload it to the cloud.
 * [ConsoleBundle](https://github.com/CoreSphere/ConsoleBundle) - Commandline interface in browser.
+* [EightPointsGuzzleBundle](https://github.com/8p/EightPointsGuzzleBundle) - Integrates Guzzle 6.x, a PHP HTTP Client, into Symfony 2-4 and provides plugins to extend basic functionality.
 * [CsaGuzzleBundle](https://github.com/csarrazi/CsaGuzzleBundle) - Bundle integrating Guzzle >=4.0 in Symfony.
 * [CsvBundle](https://github.com/EGYG33K/CsvBundle) - An integration for thephpleague/csv into Symfony.
 * [DomainParserBundle](https://github.com/EGYG33K/DomainParserBundle) - Integration of Domain Parser into Symfony.
@@ -252,6 +259,7 @@ Table of contents:
 * [Assets Cache Busting in Symfony](http://elnur.pro/assets-cache-busting-in-symfony/)
 * [High Performance Websites with Symfony2](http://slides.seld.be/?file=2011-10-20+High+Performance+Websites+with+Symfony2.html)
 * [Symfony - project tamed](http://clearcode.cc/2014/03/symfony-project/)
+* [Symfony 4.1 Jobeet Tutorial](https://jobeet-tutorial.readthedocs.io/en/latest/)
 
 ## Resources
 
