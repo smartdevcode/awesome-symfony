@@ -46,7 +46,6 @@ Table of contents:
 * IRC:
     * [#symfony](http://irc.lc/freenode/symfony) - Official IRC channel for Symfony support.
     * [#symfony-docs](http://irc.lc/freenode/symfony) - Channel to discuss about the documentation of Symfony.
-* [Linked.in](https://www.linkedin.com/grp/home?gid=29205) - Large and active group on Linked.in.
 * Local:
     * [Community events](http://symfony.com/events/) - Find Symfony events near you.
     * [Meetup](http://www.meetup.com/topics/symfony/) - Get involved locally and find Symfony users from your local area.
@@ -95,6 +94,7 @@ Table of contents:
 
 ## Ecommerce
 
+* [Aimeos](https://aimeos.org/Symfony/) - Ultra fast PHP e-commerce framework for #gigacommerce
 * [Bamboo](https://github.com/elcodi/bamboo) -  Full-stack E-commerce application based on Symfony and Elcodi components
 * [Elcodi](https://github.com/elcodi/elcodi) - E-commerce PHP Components and Symfony Bundles
 * [Sylius](https://github.com/Sylius/Sylius) - E-Commerce PHP framework built on top of Symfony with component-based architecture and format-agnostic rendering
@@ -169,7 +169,6 @@ Table of contents:
 * [marshaller-bundle](https://github.com/gnugat/marshaller-bundle) - A PHP library that converts from one format to another.
 * [metrics](https://github.com/beberlei/metrics) - Simple library that abstracts different metrics collectors.
 * [MhorMediaInfoBundle](https://github.com/mhor/MhorMediaInfoBundle) - Integrates php-mediainfo library into the Symfony2 full-stack framework.
-* [Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) - Mobile_Detect is a lightweight PHP class for detecting mobile devices (including tablets).
 * [MobileDetectBundle](https://github.com/suncat2000/MobileDetectBundle) - Bundle for detect mobile devices, manage mobile view and redirect to the mobile and tablet version.
 * [MultiParamBundle](https://github.com/jaytaph/MultiParamBundle) - MultiParam Annotation Bundle.
 * [ObHighchartsBundle](https://github.com/marcaube/ObHighchartsBundle) - Aims to ease the use of highcharts to display rich graph and charts.
@@ -221,6 +220,7 @@ Table of contents:
 * [qpush-bundle](http://qpush-bundle.readthedocs.org/en/latest/) - The QPush Bundle relies on the Push Queue model of Message Queues to provide asynchronous processing in your application.
 * [RabbitMqBundle](https://github.com/videlalvaro/RabbitMqBundle) - RabbitMQ bundle.
 * [RSQueueBundle](https://github.com/mmoreram/RSQueueBundle) - Queues infrastructure based on Redis, with Producer-Consumer and Publisher-Subscriber
+* [Enqueue](https://github.com/php-enqueue/enqueue-dev) -  Provides a common way for programs to create, send, read messages. Inspired by Java JMS
 
 ## Reading
 
